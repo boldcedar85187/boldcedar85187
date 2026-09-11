@@ -1,16 +1,22 @@
-## Hi there 👋
+# hey
 
-<!--
-**boldcedar85187/boldcedar85187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just another developer poking around on GitHub.
 
-Here are some ideas to get you started:
+### about
+Currently learning and building small things. Mostly interested in backend, automation, and whatever seems useful at the moment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Still early days — more to come.
+
+### stuff I use
+- Python
+- JavaScript / TypeScript
+- Git
+- Linux
+- Docker (sometimes)
+
+### projects
+Nothing worth linking yet. Check back later.
+
+---
+
+Feel free to look around or say hi.
